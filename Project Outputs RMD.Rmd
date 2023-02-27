@@ -1,0 +1,36 @@
+---
+title: "MA304-outputs"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(AER)
+data("Affairs")
+summary(Affairs)
+```
+
+```{r}
+table(Affairs$affairs)
+```
+```{r}
+table(Affairs$age)
+```
+```{r}
+table(Affairs$yearsmarried)
+```
+```{r}
+table(Affairs$religiousness)
+```
+```{r}
+table(Affairs$education)
+```
+```{r}
+table(Affairs$occupation)
+```
+```{r}
+table(Affairs$rating)
+```
