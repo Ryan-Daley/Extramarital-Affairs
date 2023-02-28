@@ -7,4 +7,5 @@ The aim of this report is to analyse the potential predictors of infidelity, and
 
 ### Some interesting visualisations from the report:
 ![Rplot10](https://user-images.githubusercontent.com/113039811/221860948-448f3882-a9fa-4572-8dc0-b19f2d7ed701.png)
+
 ![Rplot](https://user-images.githubusercontent.com/113039811/221861567-2b33f7be-65d5-439d-bfd3-3b8b75074090.png)
