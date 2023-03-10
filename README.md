@@ -1,4 +1,4 @@
-# Extramarital-Affairs
+# Extramarital Affairs
 #### A Statistical Analysis of Ray Fair's Extramarital Affairs dataset
 #### [Click here for full report](https://raw.githubusercontent.com/Ryan-Daley/Extramarital-Affairs/main/A%20Statistical%20Analysis%20of%20Fair's%20Affairs.pdf)
 In today’s society, a high proportion of marriages end in divorce. Unsurprisingly, one of the leading causes of divorce are extramarital affairs. An extramarital affair is an illicit or sexual relationship outside of marriage. 
